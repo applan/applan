@@ -12,3 +12,4 @@
   * github action
   * java ( 정렬, 추상화 등 )
   * spring ( 세부 기능 )
+  * WSL
