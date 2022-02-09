@@ -16,7 +16,6 @@
   * SPA
   * Svelt
   * shell script
-  * 
 
 * 사고싶은거
   * mac book pro...
