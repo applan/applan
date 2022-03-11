@@ -1,7 +1,6 @@
 안녕하세요, 오늘도 열심히 개발중인 applan입니다!
 
 * 공부 및 복습 예정
-  * docker
   * REST API
   * DDD(Domain Driven Development)
   * GraphQL
