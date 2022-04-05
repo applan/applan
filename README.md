@@ -1,20 +1,10 @@
-안녕하세요, 오늘도 열심히 개발중인 applan입니다!
+![header](https://capsule-render.vercel.app/api?text=applan&animation=fadeIn&type=slice&desc=Application%20Make%20Plan&fontAlign=80&rotate=9&fontAlignY=15&descAlignY=50&descAlign=88&descSize=10&height=150&color=auto)
 
-* 공부 및 복습 예정
-  * REST API
-  * DDD(Domain Driven Development)
-  * GraphQL
-  * Docker
-  * React
-  * keycloak
-  * k8s
-  * github action
-  * java ( 정렬, 추상화 등 )
-  * spring ( 세부 기능 )
-  * WSL
-  * SPA
-  * Svelt
-  * shell script
+# Hello My World!! 
+Hello, My NickName is `Applan`
 
-* 사고싶은거
-  * mac book pro...
+Name Mean `App` + `Plan` = `Application Make Plan`
+
+# Company History -
+> Company1 : 2019-07-15 ~ 2022-03-25  
+> Company2 : 2022-04-04 ~ 
